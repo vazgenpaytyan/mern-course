@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret":"5192020mern",
+    "mongoUri": "mongodb+srv://vazgen:5192020@cluster0-qk0co.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
